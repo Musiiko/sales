@@ -1,2 +1,7 @@
-package Sales.src.base;public class Income {
+package Sales.src.base;
+
+public interface Income {
+    void IncomeCalculations();
+    void NetIncomeCalculation();
+
 }

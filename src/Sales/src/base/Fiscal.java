@@ -1,2 +1,6 @@
-package Sales.src.base;public class Fiscal {
+package Sales.src.base;
+
+public interface Fiscal {
+    void IncomeTaxCalculation();
+
 }
